@@ -1,0 +1,4 @@
+2019-12-04 13:26:05,097 INFO (StartupInfoLogger.java:50)- Starting AdminApplication on shenn-litscopedeMacBook-Pro.local with PID 11894 (/Users/shenn-litscope/shenn-work/fiction_house/novel-admin/target/classes started by shenn-litscope in /Users/shenn-litscope/shenn-work/fiction_house)
+2019-12-04 13:26:05,103 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.1.RELEASE, Spring v5.0.5.RELEASE
+2019-12-04 13:26:05,107 INFO (SpringApplication.java:663)- The following profiles are active: crawl
+2019-12-04 13:26:08,067 DEBUG (RedisCacheManager.java:51)- 获取名称为: com.java2nb.system.shiro.UserRealm.authorizationCache 的RedisCache实例
